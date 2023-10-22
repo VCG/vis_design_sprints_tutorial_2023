@@ -5,6 +5,7 @@ This repository contains the materials for the IEEE Vis 2023 Tutorial on "Visual
 
 ## Tutorial_Slides:
 * Slides for the IEEE Vis 2023 tutorial
+* Datasets used in the tutorial
 
 ## Teaching_With_Vis_Design_sprints
 
@@ -38,4 +39,4 @@ Folder ***Final_Project_Instructions***
 * ***example_process_book_bechdel.pdf*** - process book of team working on independent design sprint on 'Bechdel test in films'
 
 ### Teaching_Slides_And_Activities
-* example slides of a 2-day workshop with a visualization design sprint in Tableau.
+* For example slides of a 2-day workshop with a visualization design sprint in Tableau please contact us directly.
